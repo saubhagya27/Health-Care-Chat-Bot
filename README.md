@@ -61,3 +61,35 @@ Chatbots are programs built to automatically engage with received messages. Chat
 .import matplotlib
 
 If no errors appeared then the installation is done correctly. Then, Go to your directory and run the file QuestionDiagonosisTkinter.py
+
+Front-End :
+
+1.HTML
+
+2.CSS
+
+3.BootStrap
+
+4.Java Script
+
+BACKEND :
+
+1.Google TensorFlow , Other ML Services
+
+2.FIREBASE
+
+3.Dialog Flow API
+
+CLOUD :
+
+Google Cloud
+
+TOOLS :
+
+1.Github
+
+2.Postman
+
+3.Figma
+
+4.Canva
